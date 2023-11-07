@@ -1,6 +1,6 @@
 const { expect } = require("chai")
 const { it, describe } = require("mocha")
-const  producValidator = require("./../src")
+const  producValidator = require("../src")
 const ProductDataBuilder = require("./model/productDatabuild")
 
 describe("Test Data Builder", () => {

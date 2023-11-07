@@ -1,4 +1,4 @@
-const rewiremock = require("rewiremock/node")
+const rewiremock = require("rewiremock/node.js")
 const { deepStrictEqual } = require("assert")
 const dbData = [ {name: "Jhon doe"}, {name: "FooBar"}]
 
